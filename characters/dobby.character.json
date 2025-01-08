@@ -1,7 +1,7 @@
 {
     "name": "Dobby",
-    "clients": [],
-    "modelProvider": "anthropic",
+    "clients": ["discord"],
+    "modelProvider": "groq",
     "settings": {
         "voice": {
             "model": "en_GB-danny-low"
